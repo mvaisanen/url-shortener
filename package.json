@@ -1,0 +1,14 @@
+{
+  "name": "url-shortener-api",
+  "version": "2.0.0-alpha-5",
+  "description": "URL shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Mika",
+  "license": "MTI"
+}
